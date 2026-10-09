@@ -59,8 +59,4 @@
 
 ---
 
-<div align="center">
 
-<em>🌿 El viaje acaba de comenzar. ⚔️</em>
-
-</div>
