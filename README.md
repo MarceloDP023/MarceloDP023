@@ -14,7 +14,7 @@
 
 <h2>🗺️ Sobre mí</h2>
 
-<p>¡Hola! 👋 Me llamo Marcelo Díaz Pérez, actualmente soy estudiante de Ingeniería Informática en Granada de la especialidad en Tecnologías de Información (TI), he creado este perfil en consecuencia de los trabajos que realizo a lo largo del curso y de paso añadiré los proyectos futuros que vaya haciendo .</p>
+<p>¡Hola! 👋 Me llamo Marcelo Díaz Pérez, actualmente soy estudiante de Ingeniería Informática en Granada de la especialidad Tecnologías de Información (TI), he creado este perfil en consecuencia de los trabajos que realizo a lo largo del curso y de paso añadiré los proyectos futuros que vaya haciendo .</p>
 
 <p>Ahora mismo estoy dando mis <strong>primeros pasos en GitHub</strong>, aprendiendo a organizar mis proyectos, compartir código y colaborar con otras personas. </p>
 
