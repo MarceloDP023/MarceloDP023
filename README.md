@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🌿 Bienvenido a mi aventura ⚔️</h1>
+<h1>🌿 Bienvenido a mi leyenda ⚔️</h1>
 
 <h3>Estudiante de Ingeniería Informática</h3>
 
@@ -14,9 +14,9 @@
 
 <h2>🗺️ Sobre mí</h2>
 
-<p>¡Hola! 👋 Soy estudiante de <strong>Ingeniería Informática</strong>. Me gusta aprender, resolver problemas y enfrentarme a nuevos retos.</p>
+<p>¡Hola! 👋 Me llamo Marcelo Díaz Pérez, actualmente soy estudiante de Ingeniería Informática en Granada de la especialidad en Tecnologías de Información (TI), he creado este perfil en consecuencia de los trabajos que realizo a lo largo del curso y de paso añadiré los proyectos futuros que vaya haciendo .</p>
 
-<p>Estoy dando mis <strong>primeros pasos en GitHub</strong>, aprendiendo a organizar mis proyectos, compartir código y colaborar con otras personas. Este perfil es mi pequeño cuaderno de aventuras: aquí iré reuniendo lo que aprendo y construyo.</p>
+<p>Ahora mismo estoy dando mis <strong>primeros pasos en GitHub</strong>, aprendiendo a organizar mis proyectos, compartir código y colaborar con otras personas. </p>
 
 <h2>⚔️ Lenguajes de programación</h2>
 
