@@ -1,29 +1,65 @@
 <div align="center">
-🌿 ¡Bienvenido a mi leyenda!
-Estudiante de Ingeniería Informática
-Cada gran aventura comienza con un primer paso.
+
+<h1>🌿 Bienvenido a mi aventura ⚔️</h1>
+
+<h3>Estudiante de Ingeniería Informática</h3>
+
+<p><em>«Cada gran aventura comienza con un primer paso»</em></p>
+
+<img src="https://img.shields.io/badge/Estado-Explorando%20GitHub-173b2c?style=for-the-badge&labelColor=0d1f19&color=947536" alt="Explorando GitHub" />
+
 </div>
+
 ---
-🗺️ Sobre mí
-¡Hola! 👋 Soy estudiante de Ingeniería Informática y disfruto aprendiendo, resolviendo problemas y enfrentándome a nuevos retos.
-Actualmente estoy dando mis primeros pasos en GitHub, descubriendo cómo organizar mis proyectos, compartir código y colaborar con otras personas. Este perfil es mi pequeño registro de aventuras: aquí iré reuniendo lo que aprendo y construyo.
-⚔️ Lenguajes de programación
+
+<h2>🗺️ Sobre mí</h2>
+
+<p>¡Hola! 👋 Soy estudiante de <strong>Ingeniería Informática</strong>. Me gusta aprender, resolver problemas y enfrentarme a nuevos retos.</p>
+
+<p>Estoy dando mis <strong>primeros pasos en GitHub</strong>, aprendiendo a organizar mis proyectos, compartir código y colaborar con otras personas. Este perfil es mi pequeño cuaderno de aventuras: aquí iré reuniendo lo que aprendo y construyo.</p>
+
+<h2>⚔️ Lenguajes de programación</h2>
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" alt="C++, C y Java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" alt="C++, C y Java" />
+  <p><strong>C++ · C · Java</strong></p>
 </div>
-📜 Mis proyectos
-Estoy empezando a dar forma a este espacio. Poco a poco iré destacando aquí algunos de mis proyectos y prácticas.
-🔥 Mi aventura en GitHub
+
+<h2>📜 Mis misiones</h2>
+
+<p>Estoy empezando a dar forma a este espacio. Poco a poco destacaré aquí los proyectos y prácticas que vaya desarrollando.</p>
+
+<h2>🔥 Mi aventura en GitHub</h2>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&locale=es&theme=dark&background=0D1F19&ring=D6B56B&fire=D6B56B&currStreakLabel=D6B56B&sideLabels=A9C6AC&dates=A9C6AC&stroke=47634B&border=47634B" alt="Racha de contribuciones de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=MarceloDP023&locale=es&theme=dark&background=0D1F19&ring=D6B56B&fire=D6B56B&currStreakLabel=D6B56B&sideLabels=A9C6AC&dates=A9C6AC&stroke=47634B&border=47634B" alt="Estadísticas de racha de GitHub de MarceloDP023" />
 </div>
-🎮 Más allá del código
-Cuando no estoy entre líneas de código, también disfruto de otras aventuras:
-🎮 Videojuegos: siempre hay algún mundo nuevo por explorar.
-💪 Gimnasio: constancia, esfuerzo y superación.
-🎬 Cine: disfruto de una buena historia.
-🎵 Música: la banda sonora de cada aventura.
+
+<h2>🎮 Más allá del código</h2>
+
+<table>
+  <tr>
+    <td>🎮 <strong>Videojuegos</strong></td>
+    <td>Siempre hay un mundo nuevo por explorar.</td>
+  </tr>
+  <tr>
+    <td>💪 <strong>Gimnasio</strong></td>
+    <td>Constancia, esfuerzo y superación.</td>
+  </tr>
+  <tr>
+    <td>🎬 <strong>Cine</strong></td>
+    <td>Las buenas historias siempre merecen tiempo.</td>
+  </tr>
+  <tr>
+    <td>🎵 <strong>Música</strong></td>
+    <td>La banda sonora de cada aventura.</td>
+  </tr>
+</table>
+
 ---
+
 <div align="center">
-🌿 El viaje acaba de comenzar. ⚔️
+
+<em>🌿 El viaje acaba de comenzar. ⚔️</em>
+
 </div>
