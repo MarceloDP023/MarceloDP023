@@ -34,21 +34,18 @@
   <img src="https://streak-stats.demolab.com/?user=MarceloDP023&locale=es&theme=dark&background=0D1F19&ring=D6B56B&fire=D6B56B&currStreakLabel=D6B56B&sideLabels=A9C6AC&dates=A9C6AC&stroke=47634B&border=47634B" alt="Estadísticas de racha de GitHub de MarceloDP023" />
 </div>
 
-<h2>🎮 Más allá del código</h2>
+<h3 align="center">🎮 Más allá del código</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td>🎮 <strong>Videojuegos</strong></td>
+    <td align="center">🎮 Videojuegos</td>
+    <td align="center">💪 Gimnasio</td>
   </tr>
   <tr>
-    <td>💪 <strong>Gimnasio</strong></td>
+    <td align="center">🎬 Cine</td>
+    <td align="center">🎵 Música</td>
   </tr>
-  <tr>
-    <td>🎬 <strong>Cine</strong></td>
-  </tr>
-  <tr>
-    <td>🎵 <strong>Música</strong></td>
-  </tr>
+</table>
 
 ## 🛠️ Herramientas y entornos de desarrollo
 <p align="center">
