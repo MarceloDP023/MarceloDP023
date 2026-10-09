@@ -22,7 +22,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" alt="C++, C y Java" />
-  <p><strong>C++ · C · Java</strong></p>
 </div>
 
 <h2>📜 Mis misiones</h2>
@@ -52,11 +51,9 @@
   </tr>
 
 ## 🛠️ Herramientas y entornos de desarrollo
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker" alt="Herramientas de desarrollo" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=qt,linux,windows" alt="Entornos de desarrollo" />
 </p>
