@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>🌿 Bienvenido a mi leyenda ⚔️</h1>
+<h1>🌿 Bienvenido a mi Perfil ⚔️</h1>
 
 <h3>Estudiante de Ingeniería Informática</h3>
 
-<p><em>«Cada gran aventura comienza con un primer paso»</em></p>
+<p><em>«“It’s dangerous to go alone! Take this»</em></p>
 
 <img src="https://img.shields.io/badge/Estado-Explorando%20GitHub-173b2c?style=for-the-badge&labelColor=0d1f19&color=947536" alt="Explorando GitHub" />
 
