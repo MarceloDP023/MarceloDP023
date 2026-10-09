@@ -40,19 +40,15 @@
 <table>
   <tr>
     <td>🎮 <strong>Videojuegos</strong></td>
-    <td>Siempre hay un mundo nuevo por explorar.</td>
   </tr>
   <tr>
     <td>💪 <strong>Gimnasio</strong></td>
-    <td>Constancia, esfuerzo y superación.</td>
   </tr>
   <tr>
     <td>🎬 <strong>Cine</strong></td>
-    <td>Las buenas historias siempre merecen tiempo.</td>
   </tr>
   <tr>
     <td>🎵 <strong>Música</strong></td>
-    <td>La banda sonora de cada aventura.</td>
   </tr>
 </table>
 
