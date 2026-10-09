@@ -50,6 +50,17 @@
   <tr>
     <td>🎵 <strong>Música</strong></td>
   </tr>
+
+## 🛠️ Herramientas y entornos de desarrollo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker" alt="Herramientas de desarrollo" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=qt,linux,windows" alt="Entornos de desarrollo" />
+</p>
+
 </table>
 
 ---
