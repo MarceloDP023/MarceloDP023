@@ -28,7 +28,7 @@
 
 <p>Estoy empezando a dar forma a este espacio. Poco a poco destacaré aquí los proyectos y prácticas que vaya desarrollando.</p>
 
-<h2>🔥 Mi aventura en GitHub</h2>
+<h2>🔥 Mis trabajos recientes en Git</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MarceloDP023&locale=es&theme=dark&background=0D1F19&ring=D6B56B&fire=D6B56B&currStreakLabel=D6B56B&sideLabels=A9C6AC&dates=A9C6AC&stroke=47634B&border=47634B" alt="Estadísticas de racha de GitHub de MarceloDP023" />
